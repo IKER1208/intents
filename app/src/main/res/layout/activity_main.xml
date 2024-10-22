@@ -31,11 +31,12 @@
         android:id="@+id/btnAbrirConMensaje"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Abrir Actividad con Mensaje"
+        android:text="Toast"
         app:layout_constraintTop_toBottomOf="@+id/btnAbrirConfiguracion"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="16dp" />
+
 
     <Button
         android:id="@+id/btnPagina"
